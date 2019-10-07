@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Track user expenses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiazokam/expense-tracker.git"
+  },
+  "author": "zokky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chiazokam/expense-tracker/issues"
+  },
+  "homepage": "https://github.com/Chiazokam/expense-tracker#readme"
+}
